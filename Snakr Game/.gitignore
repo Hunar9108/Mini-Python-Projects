@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+
+# VSCode settings (optional)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# High score data file (optional - remove if you want to track it)
+data.txt

@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data files
+data.json
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# Environment and system
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code and PyCharm
+.vscode/
+.idea/
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/

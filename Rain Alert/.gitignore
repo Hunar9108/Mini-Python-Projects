@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# macOS / Linux system files
+.DS_Store
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# Twilio config or secret backups
+*.bak

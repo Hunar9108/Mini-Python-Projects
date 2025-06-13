@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.env/
+venv/
+ENV/
+env.bak/
+.venv/
+
+# Mac OS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.log
